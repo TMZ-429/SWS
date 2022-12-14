@@ -1,0 +1,329 @@
+Item,Peel,Halton
+Feathers,C,C
+Hair - human or animal,C,C
+Nail clippings,C,C
+Pizza box (greasy),C,C
+Cereal/ pasta or cakemix box,R,R
+Cotton balls,C,G
+Q-tips,G,G
+Computer,S,S
+Electronics,S,S
+Battery,S,S
+Yarn,G,G
+Baked goods,C,C
+Baking ingredients,C,C
+Bird seed,C,C
+Bread,C,C
+Butter and margarine,C,C
+Cake and candy,C,C
+Cereals and grains,C,C
+Coffee grounds and filters,C,C
+Cores,C,C
+Corn cobs and husks,C,C
+Dairy and non-dairy products,C,C
+Eggs and eggshells,C,C
+Fish,C,C
+Flour,C,C
+Food and leftovers,C,C
+Food scraps,C,C
+Fruit,C,C
+Fruit or vegetable peels,C,C
+Grease and fat from food,C,C
+Herbs,C,C
+Loose tea,C,C
+Mayonnaise,C,C
+Meat,C,C
+Muffin paper cups or parchment paper,C,C
+Nuts and shells,C,C
+Oatmeal and oats,C,C
+Pasta,C,C
+Popcorn,C,C
+Pumpkin,C,C
+Rice,C,C
+Salad and dressing,C,C
+Sauce (e.g. Sour Cream),C,C
+Seeds,C,C
+Shells,C,C
+Sugar and spices,C,C
+Tea bag,C,C
+Vegetables/ legumes or pulses,C,C
+Yogurt,C,C
+Applesauce/ jello and pudding cups (single serving),R,R
+Aseptic container or box (soy/ milk/ juice/ water/ soup/ drinks),R,R
+Bread bag,R,R
+Clear plastic egg carton,R,R
+Coffee can,R,R
+Cookie/ chocolate/ toffee or biscuit tin,R,R
+Cottage cheese tub,R,R
+Dairy tubs and lids,R,R
+Foam egg cartons,R,R
+Food and snack cans (aluminum/ steel/ paperboard),R,R
+Frozen dinner plastic food tray,R,R
+Frozen vegetable bag,R,R
+Iced cappuccino/ shush or slurpy cup and lid,R,R
+Juice box,R,R
+Metal bottles and cans (empty),R,R
+Metal coffee can,R,R
+Metal paint cans with metal handles (empty),R,R
+Milk bags or transparent bags,R,R
+Milk carton,R,R
+Paper egg carton and takeout coffee trays,R,R
+Paper ice cream carton or tub,R,R
+Paper roll and coffee cup sleeves,R,R
+Paperboard or spiral cans,R,R
+Pizza box (empty),R,R
+Flowers,C,C
+House plants with soil removed,C,C
+Paper bags and cellulose-lined paper bags,C,C
+Paper napkin,C,C
+Paper plate,C,C
+Paper towel,C,C
+Plastic beer cups or plates,R,R
+Plastic beverage container,R,R
+Plastic clamshell packaging for fruit/ vegetables or baked goods,R,R
+Plastic coffee container,R,R
+Plastic cookie/ cracker/ or chocolate trays,R,R
+Plastic film overwrap on goods in cases,R,R
+Plastic food and drink containers or Tupperware,R,R
+Plastic food packaging,R,R
+Plastic grocery or retail bags,R,R
+Plastic ice cream tub,R,R
+Plastic jar,R,R
+Plastic jug for detergent/ laundry soap or fabric softener,R,R
+Plastic packaging and bottles,R,R
+Plastic packaging including clam shell containers/ domed lids and plastic liners,R,R
+Plastic pail (smaller than 5 litres),R,R
+Plastic paint cans with plastic handles (empty),R,R
+Plastic plant/ flower pots/ flats/ seed-starter trays,R,R
+Plastic sandwich bag or food packaging,R,R
+Plastic soap bottle,R,R
+Plastic water bottles (250 ml - 15 L sizes),R,R
+Popsicle sticks and wood skewers,C,C
+Sawdust/ wood shavings or pencil shavings,C,C
+Facial tissue,C,C
+Microwave popcorn bag,C,C
+Shredded paper,C,C
+Small pet bedding and nesting material,C,G
+Toothpicks/ bamboo skewers and Eco cubes,C,C
+Wood chips/ shavings or sawdust,C,C
+Wooden cutlery,C,C
+15-litre plastic water bottle (single use),R,R
+Aluminum can,R,R
+Aluminum foil plate,R,R
+Aluminum trays and liners,R,R
+Antifreeze - empty container,R,R
+Black plastic takeout trays,R,R
+Boxboard,R,R
+Bristol board or flip chart paper,R,R
+Broken glass from jars and bottles,R,G
+Calendar,R,R
+Cardboard box/ basket or carton,R,R
+Catalogue,R,R
+Computer paper,R,R
+Construction and craft paper,R,C
+Detergent box,R,R
+Dry cleaning bag,R,R
+Empty prescription bottles,R,R
+Envelope (with plastic window),R,R
+Envelope (without plastic window),R,R
+File folders,R,R
+Flyers,R,R
+Gift bag (rope removed/ non metallic),R,R
+Gift boxes,R,R
+Gift wrapping paper (non-metallic),R,G
+Glass bottle,R,R
+Glass coffee jar,R,R
+Glass jar,R,R
+Greeting card (without foil),R,R
+Hardcover book/ bound journal or notebook,R,R
+Household cleanser bottle (empty),R,R
+Household paper or printed papers,R,R
+Index card,R,R
+Junk mail,R,R
+Kleenex box with plastic film,R,R
+Magazines or catalogues,R,R
+Newspaper,R,R
+Packing paper,R,R
+Phone book,R,R
+Polystyrene and thermocol containers and plates,R,G
+Polystyrene coffee cups,R,G
+Postcard,R,R
+Posters,R,R
+Prepared food box,R,R
+Printed paper,R,R
+Produce and bulk food bags,R,R
+Shampoo bottle,R,R
+Shoe box,R,R
+Sour cream/ cottage cheese or cheese spread tub,R,R
+Steel can,R,R
+Sticky notes,R,R
+Tissue box,R,R
+Tissue wrapping paper/ Crepe paper and streamers,R,C
+Toiletpaper tube,R,C
+Water bottle (Brita type),R,G
+Wax carton,R,R
+White (granulated) paper sugar bags,R,C
+White styrofoam packaging,R,G
+Writing paper,R,R
+Yogurt beverage container,R,R
+Yogurt tub and lids,R,G
+Ammunition (including bullets/ shells and gunpowder),S,S
+Asbestos,S,S
+Dead animals,S,S
+Deposit return beer/ cans/ wine or spirits bottles,S,S
+Empty pesticide bags,S,S
+Empty seed bags,S,N/A
+Giant Hogweed or Wild Parsnip,S,S
+Grass clippings,S,S
+Old blue boxes and green bins,S,S
+Poison ivy and other invasive plants,S,S
+Real Christmas tree and seasonal wreaths,S,S
+Shower insert (metal),S,R
+Sump pump or grinder,S,S
+Tires/ wheel rims or wagon wheels,S,S
+Tractor and large off-road tires,S,S
+Acetate,G,S
+Aluminum foil wrap,G,R
+Antenna,G,G
+Artificial Christmas tree,G,S
+Artificial plant or decorative tree,G,B
+Ashes (fireplace),G,C
+Asthma puffer (empty),G,S
+Baby wipes (disposable) and cloth wipes,G,G
+Balloons,G,G
+Bandages and gauze,G,G
+Binders,G,G
+Bio-degradable or Oxo-degradable bags,G,G
+Black foam packaging and trays,G,N/A
+Blinds,G,B
+Blister card (gum/ lozenges/ medications and small items),G,G
+Blueprint Paper or blueprints,G,G
+Boat/ kayak/ canoe/ or dinghy,G,S
+Bread or milk tags,G,G
+Broken glass from window panes and mirrors,G,G
+Broom/ mops/ swifter,G,G
+Bubbled plastic wrap packaging,G,G
+Burlap,G,G
+Butcher paper (for wrapping meat),G,C
+Butter wrapper,G,G
+Candle,G,G
+Candle wax,G,G
+Candy wrapper/ snack bags or chocolate bar wrapper,G,G
+Carbon paper,G,G
+Carbon water filter,G,G
+Cardboard barrel,G,N/A
+Cardboard drum,G,S
+Catheter bag,G,N/A
+Chalk,G,G
+Charcoal or lava rock,G,G
+Chewing gum,G,G
+Chip bags,G,G
+Cigarette packages,G,R
+Cigarettes/ cigarette butts or cigarette ashes,G,G
+Cloth napkin,G,G
+Clothes drying rack/ outdoor umbrella or clothes line,G,N/A
+Clothes pegs,G,G
+Coffee cup lids,G,R
+Computer disks or discs,G,G
+Condoms,G,G
+Cookie bag/ chocolate bar wrapper or food wrap,G,G
+Crib,G,B
+Dental floss and dispenser,G,G
+Deodorant container (empty),G,G
+Dialysis bag,G,G
+Diaper,G,G
+Disposable mop sheet or cleaning sheets,G,G
+Disposable razor or used blades,G,G
+Dixie or Solo cups,G,R
+Dryer lint,G,G
+Dryer sheets,G,G
+Elastic bands,G,G
+Empty plastic soil/ salt or mulch bags,G,G
+Envelopes and packaging sleeves with padding,G,G
+Facial cleansing cloths,G,G
+Feminine hygiene products,G,G
+Fireworks or flares (used),G,G/ S
+Flashlight (batteries and light bulb removed),G,G
+Florist foam,G,G
+Foil and plastic seals from containers,G,G
+freezie and cheese wrappers,G,G
+Furnace filter,G,G
+Fuse,G,G
+Garbage can and lid,G,G
+Gift wrapping paper (metallic),G,G
+Greeting card (with foil),G,G
+Helmets,G,G
+Home health care waste,G,N/A
+Hot tub (wood),G,N/A
+Incontinence pads,G,G
+Instant or microwave soup container,G,N/A
+Insulated ice cooler and plastic or metal cooler (broken),G,S
+Key(s),G,G
+Kitty litter and pet waste,G,G
+Latex rubber gloves,G,G
+LED bulbs and incandescent or halogen lights,G,G
+Lighter,G,S
+Markers/ pens/ or hi-liters,G,G
+Mattress,G,B
+Mesh bags or wrap for food produce,G,N/A
+Mulch (coloured/treated),G,Y
+Mylar paper,G,G
+Packing peanuts (corn starched-based and Styrofoam),G,G
+Pads from meat trays,G,G
+Paint brushes/ roller applicators or paint rags,G,N/A
+Paper takeout or instant food containers and lids,G,C
+Pencils and crayons,G,G
+Photograph negatives/ film/ slides or prints,G,G
+Photographs and pictures,G,G
+Plastic 6-pack rings,G,G
+Plastic and compostable utensils and cutlery,G,G
+Plastic cereal or cracker box liners and pouches,G,G
+Plastic courier plastic bags/ pouches or tape adhesives,G,G
+Plastic food bag/ liner or pasta bags,G,G
+Plastic food wrap packaging,G,G
+Plastic lollipop or coffee stir stick,G,G
+Plastic or Metal Gasoline Container and Cap (or Spout),G,G
+Plastic Paint Cans with Metal Handles (empty),G,G
+Plastic retail gift or rewards cards and packaging,G,G
+Plastic shrink/ Saran or cling wrap,G,G
+Plastic straw,G,G
+Plastic-coated standing food and coffee pouches,G,G
+Popcorn cart or maker,G,G
+Pyramid-shaped tea bags or coffee discs,G,G
+Rapid Antigen Test Kit (Used),G,N/A
+Refillable insulated bottle or baby bottle (with BPA),G,G
+Reusable shopping/ seed/ feed or rice bags,G,G
+Ribbons or bows,G,G
+Rope/ string/ twine/ thread or fishing line,G,G
+Rubber or vinyl hose or reel,G,G
+Scouring pad,G,G
+Scrap wood or firewood bundles,G,S
+Shredded CD/ DVD or credit cards,G,R
+Single-serve coffee or tea pods,G,R
+Single-serve condiments or creamer packages,G,R
+Smoke or carbon monoxide alarm (battery-operated or hardwired),G,G
+Snacks and chip food bags,G,G
+Soap,G,G
+Sponge,G,G
+Spool and bobbins,G,G
+Stand-up flexible drink or food pouches,G,G
+Stickers,G,G
+Strapping,G,G
+Strollers/ car seats and other baby gear,G,S
+Tainted or recalled meat,G,N/A
+Takeout coffee cup,G,G
+Tarp,G,G
+Toner or ink cartridge (full or empty),G,G
+Toothbrush,G,G
+Tubes of toothpaste or medicated cream,G,G
+Twist ties/ staples/ paper clips or zip ties,G,G
+Vacuum cleaner (broken),G,G
+Vacuum cleaner bag (full or empty),G,G
+Vellum or label backing Paper,G,G
+Wallpaper/ laminated paper or coated paper,G,G
+Wax paper,G,C
+Waxed cardboard/ lined boxes and pet food bags,G,G
+Wine cork (plastic or wooden),G,G
+Wooden crate and grape boxes,G,G
+Wrapping paper (plastic and laminated),G,G
+Wrapping paper (with excessive amounts of tape),G,G
