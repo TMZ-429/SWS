@@ -10,7 +10,7 @@ Smart Waste Sorter
 ---------------------------
 CREDITS
 ---------------------------
-Programming - SD
+Programming - TMZ
 Programming - CZ
 Graphic Design - EY
 Database compilation - MX
